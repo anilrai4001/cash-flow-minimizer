@@ -1,4 +1,4 @@
-# cash-flow-minimizer
+# Cash Flow Minimizer
 
 **Project Overview:**
 
